@@ -17,8 +17,9 @@ This is a simple front-end clone of Google's Gemini AI interface. The goal of th
 
 - HTML
 - CSS
-- JavaScript (or React.js – depending on what you used)
-- (Add Tailwind CSS or any other framework if used)
+- JavaScript
+- 
+
 
 ---
 
